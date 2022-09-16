@@ -1,2 +1,2 @@
-# bootcamp-pre-work
+# prework-study-guide
 Pre Work Repo
